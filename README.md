@@ -56,21 +56,8 @@ LED
 
 ---
 
-## 📷 Project Images
 
-Add screenshots here.
-
----
-
-## 📄 Report
-
-The complete project report is available in the `report` folder.
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-LinkedIn:
-GitHub:
+Aadsrsh Gautam
